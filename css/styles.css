@@ -140,6 +140,16 @@ font-family: 'Athiti', sans-serif;
 .contact-me{
   position: relative;
   padding-top: 50px;
-  padding-left: 760px;
   text-align: center;
+}
+
+.card{
+    left: 1020px;
+    margin-top: 80px;
+}
+
+.card-img-top{
+  width: 282px;
+  height: 290px;
+  padding-top: 15px;
 }
